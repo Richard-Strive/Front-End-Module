@@ -1,0 +1,29 @@
+body, .jumbotron{
+background-color: rgb(216, 216, 216);
+}
+
+.col>img{
+height: 203px;
+width: 177px;
+}
+
+
+#carouselExampleIndicators2, #carouselExampleIndicators3,#carouselExampleIndicators4{
+margin-top: 50px;
+}
+
+.navbar {
+background-color: rgba(12, 12, 12, 0.87) !important; 
+}
+
+#violet{
+    color:rgb(217, 81, 216);
+}
+
+#violet:hover{
+color: violet;
+}
+
+i{
+    margin-top: 15px;
+}
